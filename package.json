@@ -1,0 +1,22 @@
+{
+  "name": "McUploadPlugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/txqmx/McUploadPlugin.git"
+  },
+  "keywords": [],
+  "author": "liusinan",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "colors": "^1.4.0",
+    "md5": "^2.2.1",
+    "request-promise-native": "^1.0.7"
+  }
+}
