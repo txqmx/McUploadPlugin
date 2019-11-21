@@ -1,5 +1,5 @@
 {
-  "name": "McUploadPlugin",
+  "name": "mc-upload-plugin",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/txqmx/McUploadPlugin.git"
   },
-  "keywords": [],
+  "keywords": ["mc"],
   "author": "liusinan",
   "license": "ISC",
   "dependencies": {
